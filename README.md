@@ -2,6 +2,10 @@
   <a href="https://twitter.com/siul_manfroni" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/siul_manfroni" alt="Twitter" />
   </a>
+  
+  <a href="https://t.me/luismanfroni" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luismanfroni" alt="Telegram" />
+  </a>
 
   <a href="https://www.linkedin.com/in/luis-felipe-manfroni-b70ba413b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
