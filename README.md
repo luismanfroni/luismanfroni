@@ -24,7 +24,7 @@
 ```lua
 Luis = {}
 function Luis:new()
-    self.name = "Luis"
+    self.name = "Luis Felipe Manfroni"
     self.age = 23
     self.mainLanguages = {'Rust', 'C#', 'Java', 'Javascript', 'Lua'}
     return self
